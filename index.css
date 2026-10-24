@@ -1,0 +1,78 @@
+body{
+    background-image: url('img/jungle.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.started-box{
+    background-color: rgba(200,200,200,0.3);
+    backdrop-filter: blur(3px);
+    width: 350px;
+    height: 500px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto 50px;
+    border-radius: 20px;
+    border: 1px solid rgba(200,200,200,0.5);
+}
+
+
+
+.uma-logo{
+    width: 100px;
+    display: block;
+    margin: 40px auto 0px;
+}
+
+
+.brand-name{
+    color: rgba(191, 255, 205, 0.8);
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 900;
+    font-size: 33px;
+    margin-top: 0px;
+    text-shadow: 0px 0px 20px rgba(191, 255, 205, 0.8);
+    
+
+}
+
+.uma-slogan{
+    color: rgba(191, 255, 205, 0.8);
+    text-align: center;
+    font-weight: 300;
+    font-size: 15px;
+    font-family: verdana;
+    line-height: 30px;
+}
+
+
+
+.explore-btn{
+    background-color: rgba(191, 255, 205, 0.8);
+    backdrop-filter: blur(20px);
+    padding: 15px 60px 15px;
+    border-radius: 30px;
+    border: none;
+    display: flex;
+    margin: 140px auto;
+    font-size: 15px;
+    color: black;
+    box-shadow: 0px 0px 10px rgba(191, 255, 205, 0.8);
+
+    
+}
+
+.explore-btn:hover{
+    box-shadow: 0px 0px 20px rgba(191, 255, 205, 0.8);
+    
+}
+
+.explore-btn:active{
+     box-shadow: 0px 0px 10px rgba(191, 255, 205, 0.8);
+     
+}
+
