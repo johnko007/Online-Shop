@@ -140,6 +140,12 @@ html body section div .box {
 
 }
 
+html body section div .box:hover {
+    transform: translateY(-10px);
+    transition: 0.5s;
+
+}
+
 
 .phone-photo,.phone-photo4{
     display: block;

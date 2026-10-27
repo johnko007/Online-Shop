@@ -9,7 +9,7 @@ html body{
 
 /* Started Page */
 .started-box{
-    background-color: rgba(200,200,200,0.3);
+    background: rgba(230,230,230,0.1);
     backdrop-filter: blur(3px);
     width: 350px;
     height: 500px;
